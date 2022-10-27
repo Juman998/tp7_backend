@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2019/09/05/03/09/store-4452964_960_720.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+ margin-left: 13%;
+ margin-top: 5%;
+ font-size: 3rem;
+ text-shadow: 1px 1px 2px grey;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.button{
+  width: 100px;
+  margin-top: 30px;
+  text-decoration: none;
+  margin-left: 17%;
+}
